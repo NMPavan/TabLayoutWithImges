@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabLayoutWithImges</string>
+    <string name="one">recent</string>
+    <string name="two">favorite</string>
+    <string name="three">account</string>
+</resources>
